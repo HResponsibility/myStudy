@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/main/../add/add.h
+
+../src/main/../add/add3.h
+
+../src/main/../mul/mul.h
+
+../src/main/../sub/sub.h
+
+/home/hjc/work/learnC++/myStudy/src/main/main.cpp
+add.h
+/home/hjc/work/learnC++/myStudy/src/main/add.h
+add3.h
+/home/hjc/work/learnC++/myStudy/src/main/add3.h
+sub.h
+/home/hjc/work/learnC++/myStudy/src/main/sub.h
+mul.h
+/home/hjc/work/learnC++/myStudy/src/main/mul.h
+iostream
+-
+string
+-
+

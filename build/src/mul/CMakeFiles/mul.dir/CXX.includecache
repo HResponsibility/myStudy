@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hjc/work/learnC++/myStudy/src/mul/mul.cpp
+mul.h
+/home/hjc/work/learnC++/myStudy/src/mul/mul.h
+iostream
+/home/hjc/work/learnC++/myStudy/src/mul/iostream
+
+/home/hjc/work/learnC++/myStudy/src/mul/mul.h
+
